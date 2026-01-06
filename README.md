@@ -2,10 +2,10 @@
 
 <div align="center">
 
-![React](https://img.shields.io/badge/React-18.2-%2361DAFB?logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-18-%23339933?logo=node.js)
+![React](https://img.shields.io/badge/React-19.2-%2361DAFB?logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-24-%23339933?logo=node.js)
 ![MongoDB](https://img.shields.io/badge/MongoDB-7-%2347A248?logo=mongodb)
-![Express](https://img.shields.io/badge/Express.js-4.18-%23000000?logo=express)
+![Express](https://img.shields.io/badge/Express.js-5.2-%23000000?logo=express)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.3-%2306B6D4?logo=tailwindcss)
 
 **A professional, production-ready Todo application with modern UI and robust backend architecture**
